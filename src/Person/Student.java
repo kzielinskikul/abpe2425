@@ -1,0 +1,6 @@
+package Person;
+
+
+public class Student {
+    private int id;
+}
